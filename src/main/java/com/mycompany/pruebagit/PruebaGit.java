@@ -1,5 +1,5 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Una unidad (1) de cambio al código
  */
 
 package com.mycompany.pruebagit;
